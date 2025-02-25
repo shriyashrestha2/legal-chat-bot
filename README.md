@@ -1,2 +1,2 @@
 # legal-chat-bot
- legal terms chat bot
+ in terminal run: streamlit run main.py
